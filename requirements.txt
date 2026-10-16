@@ -1,0 +1,1 @@
+PySide6>=6.7,<7\npypdf>=5.0\npython-docx>=1.1\n
